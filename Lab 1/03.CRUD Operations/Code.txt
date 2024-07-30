@@ -1,0 +1,16 @@
+CREATE TABLE employee (
+    Employee_ID INTEGER PRIMARY KEY AUTOINCREMENT,
+    Name TEXT NOT NULL,
+    Age INTEGER NOT NULL,
+    Address TEXT,
+    Salary REAL NOT NULL,
+    Position TEXT,
+    Department TEXT,
+    Date_of_Joining DATE,
+    Experience_Years INTEGER,
+    Number_of_Leaves INTEGER,
+    Performance_Rating REAL,
+    Employee_Satisfaction REAL,
+    Number_of_Promotions INTEGER,
+    Number_of_Projects_Working INTEGER
+);

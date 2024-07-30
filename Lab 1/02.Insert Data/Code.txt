@@ -1,0 +1,993 @@
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('John Doe', 30, '123 Maple St', 60000.0, 'Software Engineer', 'IT', '2015-06-01', 5, 10, 4.5, 4.7, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jane Smith', 40, '456 Oak St', 75000.0, 'Project Manager', 'IT', '2010-08-15', 10, 8, 4.8, 4.9, 2, 5);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Alice Johnson', 35, '789 Pine St', 65000.0, 'Business Analyst', 'Business', '2012-11-20', 8, 12, 4.3, 4.5, 1, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Bob Brown', 45, '321 Birch St', 80000.0, 'HR Manager', 'HR', '2008-03-30', 15, 5, 4.7, 4.8, 3, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Charlie Davis', 28, '654 Cedar St', 55000.0, 'Marketing Specialist', 'Marketing', '2017-09-12', 3, 15, 4.1, 4.3, 0, 6);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('David Miller', 32, '123 Elm St', 61000.0, 'Data Analyst', 'IT', '2016-05-15', 6, 11, 4.4, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Eva Taylor', 29, '234 Pine St', 58000.0, 'UX Designer', 'Design', '2018-07-01', 4, 9, 4.2, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Frank White', 38, '345 Cedar St', 72000.0, 'Systems Engineer', 'IT', '2013-12-05', 9, 7, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Grace Lee', 26, '456 Birch St', 54000.0, 'Content Writer', 'Marketing', '2019-03-22', 2, 13, 4.0, 4.1, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Henry Walker', 41, '567 Maple St', 78000.0, 'Network Administrator', 'IT', '2011-09-10', 12, 6, 4.7, 4.8, 3, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Isabella Harris', 27, '678 Oak St', 56000.0, 'Graphic Designer', 'Design', '2017-11-15', 3, 14, 4.3, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jack Martin', 34, '789 Pine St', 63000.0, 'Database Administrator', 'IT', '2014-06-18', 7, 10, 4.5, 4.6, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Karen Young', 45, '890 Cedar St', 85000.0, 'Finance Manager', 'Finance', '2009-02-25', 15, 5, 4.8, 4.9, 3, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Liam Carter', 28, '901 Birch St', 57000.0, 'Marketing Coordinator', 'Marketing', '2018-04-10', 3, 12, 4.1, 4.2, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Mia Thompson', 33, '123 Maple St', 62000.0, 'QA Engineer', 'IT', '2015-10-05', 6, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Noah Roberts', 30, '234 Oak St', 59000.0, 'Technical Writer', 'IT', '2016-08-20', 5, 9, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Olivia Lewis', 39, '345 Pine St', 70000.0, 'Operations Manager', 'Operations', '2012-03-15', 10, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Paul Green', 27, '456 Cedar St', 55000.0, 'Customer Support', 'Support', '2017-07-30', 3, 14, 4.2, 4.3, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quinn Scott', 42, '567 Birch St', 76000.0, 'Business Development', 'Business', '2010-05-22', 12, 6, 4.7, 4.8, 3, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Rachel King', 31, '678 Maple St', 60000.0, 'Product Manager', 'Product', '2015-12-01', 5, 10, 4.5, 4.6, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Samuel Wright', 29, '789 Oak St', 58000.0, 'Software Developer', 'IT', '2017-11-05', 4, 11, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Tina Hall', 35, '890 Pine St', 64000.0, 'HR Specialist', 'HR', '2014-08-25', 7, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Uma Baker', 40, '901 Cedar St', 75000.0, 'Sales Manager', 'Sales', '2010-04-18', 10, 8, 4.8, 4.9, 3, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Victor Phillips', 28, '123 Birch St', 57000.0, 'SEO Specialist', 'Marketing', '2018-05-10', 3, 13, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Wendy Campbell', 36, '234 Maple St', 65000.0, 'Accountant', 'Finance', '2014-09-20', 8, 9, 4.5, 4.6, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xander James', 33, '345 Oak St', 63000.0, 'Technical Support', 'Support', '2015-06-15', 6, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yara Flores', 29, '456 Pine St', 59000.0, 'Copywriter', 'Marketing', '2016-07-10', 5, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zachary Morris', 40, '567 Cedar St', 77000.0, 'Logistics Manager', 'Operations', '2011-02-18', 12, 7, 4.7, 4.8, 3, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Anna Rogers', 28, '678 Birch St', 56000.0, 'Social Media Manager', 'Marketing', '2018-06-30', 3, 12, 4.1, 4.2, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Brian Nelson', 32, '789 Maple St', 61000.0, 'DevOps Engineer', 'IT', '2016-11-25', 6, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Catherine Bryant', 30, '890 Oak St', 60000.0, 'Business Analyst', 'Business', '2016-03-20', 5, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Daniel Foster', 34, '901 Pine St', 63000.0, 'Web Developer', 'IT', '2015-12-10', 7, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Eleanor Reed', 45, '123 Cedar St', 78000.0, 'HR Director', 'HR', '2009-01-25', 15, 6, 4.8, 4.9, 3, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Francis Diaz', 27, '234 Birch St', 55000.0, 'Customer Success Manager', 'Support', '2017-04-15', 3, 14, 4.2, 4.3, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Gabriella Hughes', 31, '345 Maple St', 60000.0, 'Product Designer', 'Design', '2015-09-20', 5, 10, 4.5, 4.6, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Harry Alexander', 28, '456 Oak St', 57000.0, 'IT Support', 'IT', '2018-03-15', 3, 12, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ivy Brooks', 29, '567 Pine St', 58000.0, 'Content Strategist', 'Marketing', '2016-10-10', 4, 11, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jackie Sanders', 36, '678 Cedar St', 65000.0, 'Finance Analyst', 'Finance', '2014-07-20', 8, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Keith Ross', 33, '789 Birch St', 63000.0, 'System Administrator', 'IT', '2015-04-15', 6, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Laura Jenkins', 40, '890 Maple St', 74000.0, 'Marketing Manager', 'Marketing', '2011-06-20', 10, 8, 4.7, 4.8, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Mike Griffin', 27, '901 Oak St', 55000.0, 'Technical Support Engineer', 'Support', '2017-08-25', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Nina Wallace', 35, '123 Pine St', 64000.0, 'Data Scientist', 'IT', '2014-03-10', 7, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Oscar Daniels', 32, '234 Cedar St', 61000.0, 'Backend Developer', 'IT', '2015-12-05', 6, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Patricia Stewart', 29, '345 Birch St', 58000.0, 'Digital Marketing Specialist', 'Marketing', '2016-05-20', 4, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quentin Collins', 27, '456 Maple St', 55000.0, 'Front-end Developer', 'IT', '2017-11-10', 3, 13, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ruth Bennett', 36, '567 Oak St', 65000.0, 'Compliance Officer', 'Operations', '2014-02-15', 8, 9, 4.5, 4.6, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Steven Hamilton', 33, '678 Pine St', 63000.0, 'Network Engineer', 'IT', '2015-07-20', 6, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Tina Adams', 40, '789 Cedar St', 74000.0, 'HR Consultant', 'HR', '2011-04-10', 10, 8, 4.7, 4.8, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Uma Grant', 27, '890 Birch St', 55000.0, 'Sales Representative', 'Sales', '2017-06-15', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Victor Mitchell', 36, '901 Maple St', 64000.0, 'Operations Analyst', 'Operations', '2014-09-20', 8, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Wendy Edwards', 33, '123 Oak St', 61000.0, 'IT Project Manager', 'IT', '2015-04-25', 6, 11, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xander Fox', 28, '234 Pine St', 57000.0, 'UX Researcher', 'Design', '2018-02-10', 3, 13, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yara Adams', 35, '345 Cedar St', 65000.0, 'Business Consultant', 'Business', '2014-06-20', 8, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zachary Foster', 33, '456 Birch St', 63000.0, 'Software Engineer', 'IT', '2015-10-15', 6, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Alice Johnson', 28, '789 Elm St', 59000.0, 'Data Analyst', 'Business', '2016-08-20', 4, 11, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Bob Smith', 42, '123 Walnut St', 82000.0, 'IT Manager', 'IT', '2010-07-15', 12, 8, 4.7, 4.8, 3, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Carol Taylor', 30, '456 Cedar St', 63000.0, 'HR Specialist', 'HR', '2015-05-20', 5, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('David Brown', 34, '789 Oak St', 68000.0, 'Sales Manager', 'Sales', '2013-11-10', 7, 9, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Eva Wilson', 29, '123 Pine St', 61000.0, 'Marketing Coordinator', 'Marketing', '2016-01-15', 4, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Frank Garcia', 38, '456 Elm St', 75000.0, 'Finance Manager', 'Finance', '2012-09-25', 10, 8, 4.7, 4.8, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Grace Martinez', 32, '789 Walnut St', 66000.0, 'Content Writer', 'Marketing', '2014-04-10', 6, 11, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Henry Robinson', 31, '123 Cedar St', 65000.0, 'Product Manager', 'Business', '2015-06-20', 5, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Isabella Clark', 27, '456 Oak St', 57000.0, 'Graphic Designer', 'Design', '2017-03-15', 3, 13, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jack White', 35, '789 Pine St', 69000.0, 'Operations Manager', 'Operations', '2013-02-20', 8, 9, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Karen Lewis', 40, '123 Elm St', 74000.0, 'HR Director', 'HR', '2010-07-25', 12, 7, 4.8, 4.9, 3, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Liam Harris', 28, '456 Walnut St', 59000.0, 'SEO Specialist', 'Marketing', '2016-08-30', 4, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Mia Lee', 33, '789 Cedar St', 66000.0, 'Data Scientist', 'IT', '2015-05-15', 6, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Nathan King', 37, '123 Oak St', 72000.0, 'Logistics Coordinator', 'Operations', '2012-03-20', 9, 8, 4.7, 4.8, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Olivia Scott', 31, '456 Pine St', 64000.0, 'Sales Executive', 'Sales', '2015-10-10', 5, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Patrick Turner', 39, '789 Elm St', 70000.0, 'Business Development Manager', 'Business', '2012-11-25', 10, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quinn Rivera', 28, '123 Walnut St', 58000.0, 'Customer Service Representative', 'Support', '2016-02-15', 4, 13, 4.3, 4.4, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Rachel Martinez', 30, '456 Cedar St', 63000.0, 'Account Manager', 'Finance', '2015-07-10', 5, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Sam Parker', 32, '789 Oak St', 66000.0, 'IT Support Specialist', 'IT', '2014-09-20', 6, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Tina Clark', 34, '123 Pine St', 67000.0, 'Public Relations Manager', 'Marketing', '2013-03-25', 7, 9, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Umar Green', 27, '456 Elm St', 58000.0, 'Content Strategist', 'Content', '2017-05-15', 3, 12, 4.3, 4.4, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Vanessa Young', 29, '789 Walnut St', 60000.0, 'Event Planner', 'Marketing', '2016-10-20', 4, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Walter Hernandez', 33, '123 Cedar St', 65000.0, 'Research Analyst', 'Research', '2014-06-15', 6, 10, 4.5, 4.6, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ximena Cooper', 31, '456 Oak St', 64000.0, 'Supply Chain Manager', 'Operations', '2015-08-20', 5, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yvonne Campbell', 30, '789 Pine St', 62000.0, 'Sales Consultant', 'Sales', '2015-11-10', 5, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zachary Long', 35, '123 Elm St', 70000.0, 'Technical Writer', 'IT', '2013-02-20', 8, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Amelia Moore', 28, '456 Walnut St', 59000.0, 'Content Manager', 'Content', '2016-01-15', 4, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Benjamin Brown', 36, '789 Cedar St', 68000.0, 'HR Generalist', 'HR', '2012-05-20', 9, 8, 4.7, 4.8, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Charlotte Davis', 29, '123 Oak St', 61000.0, 'Marketing Analyst', 'Marketing', '2015-03-25', 4, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Daniel Gonzalez', 38, '456 Pine St', 72000.0, 'Operations Supervisor', 'Operations', '2011-09-10', 10, 8, 4.7, 4.8, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Emma Hall', 32, '789 Elm St', 64000.0, 'Financial Analyst', 'Finance', '2014-08-20', 6, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Frankie Allen', 33, '123 Walnut St', 67000.0, 'Web Developer', 'IT', '2014-04-15', 7, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Grace King', 29, '456 Cedar St', 60000.0, 'Brand Manager', 'Marketing', '2015-06-20', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Henry Roberts', 35, '789 Oak St', 69000.0, 'Systems Analyst', 'IT', '2013-09-25', 8, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Isabelle Turner', 30, '123 Pine St', 62000.0, 'Sales Coordinator', 'Sales', '2015-11-15', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jackie Clark', 37, '456 Elm St', 72000.0, 'Operations Director', 'Operations', '2012-01-10', 10, 8, 4.7, 4.8, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Kara Edwards', 31, '789 Walnut St', 63000.0, 'Content Creator', 'Content', '2015-08-20', 6, 10, 4.5, 4.6, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Liam Scott', 27, '123 Cedar St', 58000.0, 'Support Engineer', 'IT', '2016-03-25', 4, 12, 4.3, 4.4, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Molly Hughes', 33, '456 Oak St', 65000.0, 'Accountant', 'Finance', '2014-12-15', 7, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Nate Williams', 29, '789 Pine St', 61000.0, 'Product Specialist', 'Business', '2015-06-10', 5, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Olivia Collins', 32, '123 Elm St', 66000.0, 'Financial Planner', 'Finance', '2014-05-20', 6, 10, 4.5, 4.6, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Paul Foster', 38, '456 Walnut St', 71000.0, 'Operations Analyst', 'Operations', '2011-07-15', 10, 8, 4.7, 4.8, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quinn Howard', 30, '789 Cedar St', 63000.0, 'Sales Trainer', 'Sales', '2015-11-25', 5, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Rose Ward', 29, '123 Oak St', 60000.0, 'Project Manager', 'Business', '2016-04-15', 4, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Steven Bailey', 34, '456 Pine St', 67000.0, 'Research Scientist', 'Research', '2013-03-10', 8, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Tina Bell', 37, '789 Elm St', 71000.0, 'IT Administrator', 'IT', '2012-08-20', 10, 8, 4.7, 4.8, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Uma Murphy', 31, '123 Walnut St', 64000.0, 'Data Engineer', 'IT', '2015-01-15', 6, 10, 4.5, 4.6, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Victor Ramirez', 28, '456 Cedar St', 59000.0, 'Customer Success Manager', 'Support', '2016-06-20', 4, 12, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Wendy Adams', 33, '789 Oak St', 67000.0, 'Marketing Director', 'Marketing', '2013-11-15', 7, 9, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xavier Hughes', 29, '123 Pine St', 60000.0, 'HR Specialist', 'HR', '2015-05-10', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yasmin Lee', 30, '456 Elm St', 62000.0, 'Financial Advisor', 'Finance', '2015-03-20', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zane Cooper', 35, '789 Walnut St', 70000.0, 'Sales Director', 'Sales', '2013-02-25', 8, 9, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Aiden Green', 28, '123 Maple St', 58000.0, 'Junior Developer', 'IT', '2017-09-15', 3, 15, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Bella Johnson', 31, '456 Oak St', 62000.0, 'Marketing Assistant', 'Marketing', '2015-02-20', 5, 10, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Caleb Scott', 33, '789 Elm St', 67000.0, 'Business Analyst', 'Business', '2014-07-10', 6, 8, 4.6, 4.7, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Daisy Harris', 29, '123 Cedar St', 59000.0, 'Product Designer', 'Design', '2016-01-15', 4, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ethan Lewis', 36, '456 Pine St', 71000.0, 'Project Coordinator', 'Operations', '2011-11-25', 9, 8, 4.7, 4.8, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Fiona Brown', 34, '789 Maple St', 68000.0, 'HR Manager', 'HR', '2012-06-15', 8, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('George White', 31, '123 Oak St', 60000.0, 'Data Analyst', 'IT', '2016-04-20', 5, 11, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Hannah King', 29, '456 Cedar St', 62000.0, 'Content Strategist', 'Content', '2016-05-15', 4, 12, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ian Martinez', 35, '789 Elm St', 70000.0, 'Sales Manager', 'Sales', '2013-01-10', 8, 9, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Julia Turner', 30, '123 Pine St', 63000.0, 'Finance Analyst', 'Finance', '2015-07-15', 5, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Kyle Roberts', 32, '456 Oak St', 64000.0, 'Product Manager', 'Business', '2014-08-20', 6, 9, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Lila Davis', 29, '789 Maple St', 59000.0, 'Marketing Specialist', 'Marketing', '2016-03-15', 4, 12, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Mason Evans', 34, '123 Cedar St', 67000.0, 'UX Designer', 'Design', '2013-09-20', 7, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Nora Gonzalez', 30, '456 Pine St', 60000.0, 'IT Support Specialist', 'IT', '2015-06-20', 5, 11, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Oscar Miller', 29, '789 Oak St', 62000.0, 'Research Analyst', 'Research', '2016-10-05', 4, 12, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Paige Adams', 33, '123 Maple St', 65000.0, 'Content Manager', 'Content', '2014-02-15', 7, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quincy Hill', 36, '456 Oak St', 68000.0, 'Public Relations Specialist', 'PR', '2011-09-10', 9, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Riley Baker', 28, '789 Elm St', 59000.0, 'Data Scientist', 'IT', '2017-07-15', 3, 15, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Sophia Evans', 31, '123 Pine St', 62000.0, 'SEO Specialist', 'Marketing', '2015-11-01', 5, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Tyler Martinez', 35, '456 Maple St', 67000.0, 'Sales Analyst', 'Sales', '2013-08-20', 7, 9, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Uma Robinson', 30, '789 Cedar St', 61000.0, 'Marketing Coordinator', 'Marketing', '2015-10-15', 5, 12, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Vera Long', 28, '123 Elm St', 59000.0, 'Content Developer', 'Content', '2017-01-15', 3, 15, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('William Taylor', 33, '456 Pine St', 64000.0, 'Operations Coordinator', 'Operations', '2014-04-20', 6, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xander Wright', 32, '789 Maple St', 63000.0, 'Finance Manager', 'Finance', '2015-12-10', 5, 11, 4.5, 4.6, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yara Hughes', 29, '123 Cedar St', 60000.0, 'HR Coordinator', 'HR', '2016-02-20', 4, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zara Wright', 31, '456 Oak St', 62000.0, 'Business Development Manager', 'Business', '2015-11-25', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ariana Lopez', 27, '789 Elm St', 59000.0, 'IT Project Manager', 'IT', '2017-06-15', 3, 12, 4.3, 4.4, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Blake Adams', 30, '123 Pine St', 63000.0, 'Marketing Director', 'Marketing', '2015-04-10', 5, 11, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Chloe White', 32, '456 Maple St', 62000.0, 'Content Specialist', 'Content', '2016-05-20', 4, 10, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Daniel Clark', 34, '789 Oak St', 66000.0, 'Research Coordinator', 'Research', '2014-09-05', 6, 9, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ella Brown', 29, '123 Cedar St', 61000.0, 'Operations Assistant', 'Operations', '2016-07-20', 4, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Finn Garcia', 37, '456 Oak St', 68000.0, 'IT Analyst', 'IT', '2012-03-10', 9, 8, 4.7, 4.8, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Gwen Lewis', 30, '789 Maple St', 60000.0, 'Public Relations Coordinator', 'PR', '2015-06-15', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Holly Martinez', 33, '123 Pine St', 65000.0, 'Content Analyst', 'Content', '2014-08-20', 6, 9, 4.6, 4.7, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Isaac Turner', 29, '456 Cedar St', 62000.0, 'Business Analyst', 'Business', '2016-03-20', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jasmine Wright', 32, '789 Elm St', 64000.0, 'Marketing Coordinator', 'Marketing', '2015-12-01', 5, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Kurt Harris', 28, '123 Maple St', 59000.0, 'Product Manager', 'Product', '2017-04-15', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Liam Scott', 35, '456 Oak St', 67000.0, 'Operations Analyst', 'Operations', '2012-10-20', 8, 9, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Maya Thompson', 29, '789 Pine St', 62000.0, 'HR Specialist', 'HR', '2016-01-10', 4, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Noah Allen', 31, '123 Cedar St', 63000.0, 'Design Specialist', 'Design', '2015-09-15', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Olivia Campbell', 28, '456 Maple St', 61000.0, 'Finance Coordinator', 'Finance', '2017-05-20', 3, 15, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Paul Collins', 34, '789 Elm St', 68000.0, 'Sales Specialist', 'Sales', '2012-12-15', 8, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quinn Diaz', 33, '123 Pine St', 66000.0, 'Marketing Analyst', 'Marketing', '2014-11-25', 7, 9, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Riley Hernandez', 31, '456 Cedar St', 63000.0, 'Product Analyst', 'Product', '2015-06-20', 5, 11, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Samantha Wilson', 28, '789 Pine St', 60000.0, 'Operations Manager', 'Operations', '2017-02-15', 3, 12, 4.3, 4.4, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Tyler Lopez', 32, '123 Cedar St', 64000.0, 'Customer Service Manager', 'Support', '2015-08-20', 6, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ursula Moore', 30, '456 Maple St', 62000.0, 'Business Development Specialist', 'Business', '2016-12-10', 4, 11, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Victor White', 29, '789 Elm St', 59000.0, 'IT Coordinator', 'IT', '2016-04-20', 4, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Wendy Scott', 35, '123 Pine St', 65000.0, 'HR Coordinator', 'HR', '2013-09-15', 7, 9, 4.6, 4.7, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xander Cooper', 34, '456 Cedar St', 68000.0, 'Content Manager', 'Content', '2012-11-05', 8, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yasmine Brooks', 30, '789 Pine St', 60000.0, 'Product Specialist', 'Product', '2015-07-10', 5, 10, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zachary King', 31, '123 Maple St', 64000.0, 'Public Relations Manager', 'PR', '2014-06-15', 6, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Alyssa Reed', 33, '456 Oak St', 63000.0, 'Business Development Manager', 'Business', '2013-12-20', 7, 9, 4.4, 4.5, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Bradley Evans', 29, '789 Cedar St', 62000.0, 'Design Coordinator', 'Design', '2016-03-25', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Charlotte Murphy', 30, '123 Oak St', 65000.0, 'Sales Specialist', 'Sales', '2015-05-10', 5, 12, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Derek Collins', 32, '456 Maple St', 67000.0, 'Customer Service Manager', 'Support', '2014-04-15', 6, 10, 4.5, 4.6, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Eva Sanchez', 27, '789 Cedar St', 61000.0, 'Product Manager', 'Product', '2017-03-05', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Frankie Scott', 31, '123 Oak St', 62000.0, 'Operations Coordinator', 'Operations', '2015-10-05', 5, 11, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Gina Cooper', 30, '456 Pine St', 60000.0, 'Marketing Specialist', 'Marketing', '2016-08-10', 4, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Hank Wright', 35, '789 Oak St', 67000.0, 'Research Analyst', 'Research', '2012-07-20', 8, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Iris Lee', 29, '123 Maple St', 62000.0, 'Business Development Specialist', 'Business', '2016-06-10', 4, 10, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jack Morris', 34, '456 Oak St', 67000.0, 'Operations Manager', 'Operations', '2013-11-15', 6, 8, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Kelsey Davis', 32, '789 Pine St', 63000.0, 'Finance Analyst', 'Finance', '2014-09-10', 6, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Leo Bennett', 31, '123 Cedar St', 65000.0, 'Public Relations Specialist', 'PR', '2015-11-10', 5, 12, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Mia Gray', 29, '456 Maple St', 61000.0, 'Content Coordinator', 'Content', '2017-02-15', 3, 12, 4.3, 4.4, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Nina Price', 28, '789 Cedar St', 60000.0, 'HR Specialist', 'HR', '2017-01-05', 3, 14, 4.2, 4.3, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Oscar Wright', 30, '456 Maple St', 63000.0, 'Design Manager', 'Design', '2015-04-20', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Parker Reed', 27, '789 Pine St', 60000.0, 'Marketing Assistant', 'Marketing', '2017-07-15', 3, 12, 4.3, 4.4, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quinn Adams', 33, '123 Cedar St', 64000.0, 'Customer Service Specialist', 'Support', '2014-10-10', 7, 10, 4.5, 4.6, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Riley Evans', 32, '456 Pine St', 62000.0, 'IT Specialist', 'IT', '2015-01-20', 5, 11, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Sophia Knight', 29, '789 Oak St', 63000.0, 'Sales Manager', 'Sales', '2016-02-15', 4, 12, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Tina Harris', 30, '123 Pine St', 62000.0, 'Operations Specialist', 'Operations', '2016-11-05', 4, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ulysses Clark', 33, '456 Oak St', 65000.0, 'Product Manager', 'Product', '2014-05-10', 7, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Violet Moore', 31, '789 Cedar St', 60000.0, 'Design Coordinator', 'Design', '2016-07-20', 5, 10, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Willow Young', 28, '123 Oak St', 60000.0, 'Finance Manager', 'Finance', '2017-06-15', 3, 13, 4.3, 4.4, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xena Gray', 29, '456 Maple St', 61000.0, 'Marketing Manager', 'Marketing', '2016-09-05', 4, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yara Miller', 32, '789 Oak St', 64000.0, 'HR Manager', 'HR', '2015-05-20', 5, 9, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zane Davis', 34, '123 Pine St', 67000.0, 'Research Specialist', 'Research', '2013-10-05', 8, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Aidan Carter', 28, '123 Birch St', 59000.0, 'Business Analyst', 'Business', '2018-03-12', 2, 10, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Bella Martinez', 31, '456 Birch St', 62000.0, 'Sales Coordinator', 'Sales', '2016-07-22', 4, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Cameron Lee', 29, '789 Birch St', 61000.0, 'Product Specialist', 'Product', '2017-04-15', 3, 11, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Daisy Taylor', 33, '123 Elm St', 64000.0, 'Marketing Specialist', 'Marketing', '2014-10-18', 6, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ethan White', 30, '456 Elm St', 63000.0, 'IT Specialist', 'IT', '2016-02-10', 5, 9, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Fiona Green', 28, '789 Elm St', 60000.0, 'Customer Service Specialist', 'Support', '2017-05-20', 3, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('George Harris', 32, '123 Maple St', 65000.0, 'Business Development Manager', 'Business', '2015-08-25', 6, 10, 4.4, 4.5, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Holly Adams', 29, '456 Maple St', 62000.0, 'Product Manager', 'Product', '2016-09-10', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ian Young', 34, '789 Maple St', 68000.0, 'Operations Manager', 'Operations', '2012-11-12', 8, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jasmine Clark', 27, '123 Oak St', 61000.0, 'Marketing Analyst', 'Marketing', '2018-01-10', 2, 10, 4.2, 4.3, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Kevin Scott', 31, '456 Oak St', 63000.0, 'HR Specialist', 'HR', '2015-12-20', 5, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Laura Nelson', 33, '789 Oak St', 64000.0, 'Design Coordinator', 'Design', '2014-07-25', 6, 9, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Michael Lopez', 29, '123 Birch St', 62000.0, 'Sales Specialist', 'Sales', '2016-05-15', 4, 10, 4.3, 4.4, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Natalie Turner', 31, '456 Birch St', 60000.0, 'Finance Analyst', 'Finance', '2015-09-10', 5, 12, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Oliver Walker', 28, '789 Birch St', 61000.0, 'IT Coordinator', 'IT', '2017-04-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Peyton Wright', 34, '123 Elm St', 64000.0, 'Customer Service Manager', 'Support', '2014-03-15', 6, 10, 4.4, 4.5, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quincy Morgan', 32, '456 Elm St', 63000.0, 'Operations Coordinator', 'Operations', '2015-06-10', 5, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Rachel Morris', 30, '789 Elm St', 62000.0, 'Business Development Specialist', 'Business', '2016-01-10', 4, 12, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Sam Mitchell', 27, '123 Maple St', 60000.0, 'Design Specialist', 'Design', '2018-02-10', 2, 12, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Taylor Hughes', 31, '456 Maple St', 62000.0, 'Marketing Coordinator', 'Marketing', '2015-10-15', 5, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ursula Rivera', 29, '789 Maple St', 61000.0, 'HR Coordinator', 'HR', '2017-01-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Victor Turner', 32, '123 Oak St', 65000.0, 'Operations Manager', 'Operations', '2015-06-10', 6, 10, 4.4, 4.5, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Wendy Allen', 30, '456 Oak St', 63000.0, 'Product Manager', 'Product', '2016-03-15', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xander Brooks', 33, '789 Oak St', 62000.0, 'IT Specialist', 'IT', '2014-09-20', 7, 9, 4.5, 4.6, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yvonne Carter', 31, '123 Birch St', 61000.0, 'Marketing Specialist', 'Marketing', '2015-12-05', 5, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zachary Morris', 29, '456 Birch St', 60000.0, 'Business Analyst', 'Business', '2017-03-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Alyssa Bailey', 34, '789 Birch St', 62000.0, 'Customer Service Manager', 'Support', '2012-11-10', 8, 10, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Brandon King', 30, '123 Elm St', 64000.0, 'Design Manager', 'Design', '2015-08-20', 5, 9, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Clara Morgan', 27, '456 Elm St', 60000.0, 'IT Coordinator', 'IT', '2018-05-10', 2, 12, 4.2, 4.3, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Derek Clark', 31, '789 Elm St', 62000.0, 'HR Specialist', 'HR', '2016-04-25', 5, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Eva Lewis', 28, '123 Maple St', 61000.0, 'Marketing Analyst', 'Marketing', '2017-07-20', 3, 12, 4.1, 4.2, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Frank Turner', 34, '456 Maple St', 65000.0, 'Operations Manager', 'Operations', '2013-12-10', 6, 10, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Grace Miller', 29, '789 Maple St', 62000.0, 'Product Specialist', 'Product', '2016-08-10', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Hannah Allen', 30, '123 Oak St', 63000.0, 'Finance Analyst', 'Finance', '2015-01-15', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ian Thompson', 31, '456 Oak St', 62000.0, 'Marketing Specialist', 'Marketing', '2015-07-20', 5, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Julia Carter', 29, '789 Oak St', 60000.0, 'Operations Coordinator', 'Operations', '2017-03-05', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Kevin Moore', 32, '123 Pine St', 64000.0, 'Design Specialist', 'Design', '2015-11-05', 6, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Laura Robinson', 30, '456 Pine St', 62000.0, 'Business Development Specialist', 'Business', '2016-02-10', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Mark Davis', 31, '789 Pine St', 64000.0, 'Product Manager', 'Product', '2015-08-15', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Nina Evans', 29, '123 Oak St', 61000.0, 'HR Specialist', 'HR', '2017-03-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Oscar Taylor', 34, '456 Oak St', 67000.0, 'Marketing Manager', 'Marketing', '2012-06-10', 7, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Paige Miller', 32, '789 Oak St', 65000.0, 'Design Coordinator', 'Design', '2015-01-15', 6, 9, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quinn Wright', 30, '123 Maple St', 62000.0, 'Customer Service Specialist', 'Support', '2016-07-10', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ryan Clark', 29, '456 Maple St', 60000.0, 'IT Specialist', 'IT', '2017-04-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Samantha Turner', 31, '789 Maple St', 64000.0, 'Finance Analyst', 'Finance', '2015-09-10', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Thomas Allen', 28, '123 Birch St', 61000.0, 'Business Analyst', 'Business', '2018-02-10', 2, 12, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Uma Patel', 33, '456 Birch St', 62000.0, 'Product Specialist', 'Product', '2014-11-10', 6, 9, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Victor Lewis', 34, '789 Birch St', 63000.0, 'Marketing Specialist', 'Marketing', '2013-04-05', 7, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Wendy Harris', 30, '123 Elm St', 64000.0, 'HR Coordinator', 'HR', '2015-10-15', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xander Walker', 29, '456 Elm St', 60000.0, 'Design Specialist', 'Design', '2017-03-15', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yara White', 31, '789 Elm St', 62000.0, 'Operations Specialist', 'Operations', '2015-08-20', 5, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zachary Miller', 30, '123 Maple St', 63000.0, 'Sales Coordinator', 'Sales', '2016-06-10', 4, 11, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ariana Davis', 29, '456 Maple St', 61000.0, 'Customer Service Specialist', 'Support', '2017-05-15', 3, 11, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Brandon Evans', 33, '789 Maple St', 64000.0, 'Product Manager', 'Product', '2014-09-10', 6, 9, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Catherine Lopez', 31, '123 Oak St', 62000.0, 'IT Specialist', 'IT', '2015-12-15', 5, 10, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Daniel Martin', 32, '456 Oak St', 63000.0, 'Design Manager', 'Design', '2015-05-10', 5, 9, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Emily Harris', 29, '789 Oak St', 61000.0, 'HR Coordinator', 'HR', '2017-08-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Felix Collins', 34, '123 Pine St', 65000.0, 'Operations Manager', 'Operations', '2013-11-10', 6, 10, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Gina Wood', 31, '456 Pine St', 62000.0, 'Product Specialist', 'Product', '2016-04-15', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Henry Green', 29, '789 Pine St', 60000.0, 'Marketing Specialist', 'Marketing', '2018-01-20', 2, 12, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ivy Wright', 32, '123 Birch St', 62000.0, 'Sales Manager', 'Sales', '2015-11-15', 6, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jack Lee', 30, '456 Birch St', 63000.0, 'Customer Service Manager', 'Support', '2016-09-10', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Kelly Young', 29, '789 Birch St', 61000.0, 'IT Coordinator', 'IT', '2017-06-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Liam Clark', 31, '123 Elm St', 62000.0, 'Operations Specialist', 'Operations', '2015-02-10', 5, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Megan Thompson', 30, '456 Elm St', 61000.0, 'HR Specialist', 'HR', '2016-10-20', 4, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Nathan Evans', 33, '789 Elm St', 62000.0, 'Design Specialist', 'Design', '2014-07-15', 7, 9, 4.5, 4.6, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Olivia Martinez', 28, '123 Maple St', 60000.0, 'Business Analyst', 'Business', '2018-04-20', 2, 12, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Patrick Brown', 31, '456 Maple St', 62000.0, 'Product Specialist', 'Product', '2016-01-15', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quinn Cooper', 29, '789 Maple St', 61000.0, 'Operations Coordinator', 'Operations', '2017-07-10', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Rachel Moore', 34, '123 Oak St', 65000.0, 'Finance Analyst', 'Finance', '2012-11-10', 8, 10, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Sam Rogers', 30, '456 Oak St', 63000.0, 'IT Specialist', 'IT', '2016-03-15', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Tina Williams', 29, '789 Oak St', 60000.0, 'HR Coordinator', 'HR', '2017-04-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ulysses Harris', 32, '123 Pine St', 64000.0, 'Marketing Manager', 'Marketing', '2015-12-10', 6, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Vera Johnson', 31, '456 Pine St', 62000.0, 'Product Manager', 'Product', '2016-05-10', 5, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Will Scott', 30, '789 Pine St', 63000.0, 'Design Manager', 'Design', '2017-01-20', 4, 11, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xena Garcia', 33, '123 Birch St', 64000.0, 'Operations Specialist', 'Operations', '2014-09-15', 7, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yvonne Rodriguez', 30, '456 Birch St', 62000.0, 'HR Specialist', 'HR', '2016-04-20', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zane Smith', 29, '789 Birch St', 60000.0, 'Customer Service Specialist', 'Support', '2017-08-15', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Alyssa Wilson', 31, '123 Elm St', 62000.0, 'Finance Analyst', 'Finance', '2015-06-10', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Brandon Young', 32, '456 Elm St', 63000.0, 'Marketing Manager', 'Marketing', '2014-08-10', 6, 9, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Cindy Brown', 30, '789 Elm St', 61000.0, 'Design Specialist', 'Design', '2016-07-15', 4, 11, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('David Lee', 33, '123 Maple St', 62000.0, 'Sales Specialist', 'Sales', '2013-11-10', 7, 8, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ella King', 31, '456 Maple St', 64000.0, 'IT Manager', 'IT', '2015-03-20', 6, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Felix Martinez', 30, '789 Maple St', 62000.0, 'Business Analyst', 'Business', '2016-02-10', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Grace Turner', 29, '123 Oak St', 61000.0, 'HR Specialist', 'HR', '2017-01-15', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Henry Roberts', 34, '456 Oak St', 67000.0, 'Marketing Specialist', 'Marketing', '2012-09-10', 8, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ivy Lee', 31, '789 Oak St', 63000.0, 'Product Specialist', 'Product', '2015-06-20', 5, 10, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('James Anderson', 32, '123 Pine St', 62000.0, 'Design Coordinator', 'Design', '2015-04-10', 5, 10, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Katherine Thompson', 30, '456 Pine St', 61000.0, 'Sales Coordinator', 'Sales', '2016-07-15', 4, 11, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Liam Moore', 29, '789 Pine St', 60000.0, 'Customer Service Specialist', 'Support', '2017-02-20', 3, 12, 4.1, 4.2, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Maya Brown', 31, '123 Birch St', 62000.0, 'Product Manager', 'Product', '2015-03-20', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Noah Adams', 34, '456 Birch St', 64000.0, 'Marketing Manager', 'Marketing', '2012-07-10', 8, 9, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Olivia Scott', 32, '789 Birch St', 63000.0, 'Design Specialist', 'Design', '2014-05-10', 7, 8, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Paul Lewis', 29, '123 Elm St', 60000.0, 'Operations Coordinator', 'Operations', '2017-03-10', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quinn Adams', 30, '456 Elm St', 62000.0, 'HR Manager', 'HR', '2016-11-15', 4, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Rachel Lewis', 33, '789 Elm St', 63000.0, 'Customer Service Manager', 'Support', '2013-12-10', 7, 9, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Sam Adams', 31, '123 Maple St', 61000.0, 'IT Coordinator', 'IT', '2016-07-20', 4, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Tina Evans', 28, '456 Maple St', 62000.0, 'Finance Coordinator', 'Finance', '2017-05-15', 3, 11, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ulysses Scott', 32, '789 Maple St', 63000.0, 'Marketing Specialist', 'Marketing', '2014-10-15', 6, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Vera Lee', 31, '123 Oak St', 62000.0, 'Sales Manager', 'Sales', '2016-01-15', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Will Turner', 30, '456 Oak St', 61000.0, 'Operations Coordinator', 'Operations', '2017-05-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xena Adams', 33, '789 Oak St', 64000.0, 'Customer Service Manager', 'Support', '2013-08-20', 8, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yvonne Lee', 30, '123 Maple St', 62000.0, 'Business Analyst', 'Business', '2016-04-20', 4, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zane Williams', 29, '456 Maple St', 60000.0, 'Design Specialist', 'Design', '2017-06-15', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Laura Robinson', 30, '456 Pine St', 62000.0, 'Business Development Specialist', 'Business', '2016-02-10', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Mark Davis', 31, '789 Pine St', 64000.0, 'Product Manager', 'Product', '2015-08-15', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Nina Evans', 29, '123 Oak St', 61000.0, 'HR Specialist', 'HR', '2017-03-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Oscar Taylor', 34, '456 Oak St', 67000.0, 'Marketing Manager', 'Marketing', '2012-06-10', 7, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Paige Miller', 32, '789 Oak St', 65000.0, 'Design Coordinator', 'Design', '2015-01-15', 6, 9, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quinn Wright', 30, '123 Maple St', 62000.0, 'Customer Service Specialist', 'Support', '2016-07-10', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ryan Clark', 29, '456 Maple St', 60000.0, 'IT Specialist', 'IT', '2017-04-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Samantha Turner', 31, '789 Maple St', 64000.0, 'Finance Analyst', 'Finance', '2015-09-10', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Thomas Allen', 28, '123 Birch St', 61000.0, 'Business Analyst', 'Business', '2018-02-10', 2, 12, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Uma Patel', 33, '456 Birch St', 62000.0, 'Product Specialist', 'Product', '2014-11-10', 6, 9, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Victor Lewis', 34, '789 Birch St', 63000.0, 'Marketing Specialist', 'Marketing', '2013-04-05', 7, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Wendy Harris', 30, '123 Elm St', 64000.0, 'HR Coordinator', 'HR', '2015-10-15', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xander Walker', 29, '456 Elm St', 60000.0, 'Design Specialist', 'Design', '2017-03-15', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yara White', 31, '789 Elm St', 62000.0, 'Operations Specialist', 'Operations', '2015-08-20', 5, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zachary Miller', 30, '123 Maple St', 63000.0, 'Sales Coordinator', 'Sales', '2016-06-10', 4, 11, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ariana Davis', 29, '456 Maple St', 61000.0, 'Customer Service Specialist', 'Support', '2017-05-15', 3, 11, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Brandon Evans', 33, '789 Maple St', 64000.0, 'Product Manager', 'Product', '2014-09-10', 6, 9, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Catherine Lopez', 31, '123 Oak St', 62000.0, 'IT Specialist', 'IT', '2015-12-15', 5, 10, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Daniel Martin', 32, '456 Oak St', 63000.0, 'Design Manager', 'Design', '2015-05-10', 5, 9, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Emily Harris', 29, '789 Oak St', 61000.0, 'HR Coordinator', 'HR', '2017-08-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Felix Collins', 34, '123 Pine St', 65000.0, 'Operations Manager', 'Operations', '2013-11-10', 6, 10, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Gina Wood', 31, '456 Pine St', 62000.0, 'Product Specialist', 'Product', '2016-04-15', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Henry Green', 29, '789 Pine St', 60000.0, 'Marketing Specialist', 'Marketing', '2018-01-20', 2, 12, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ivy Wright', 32, '123 Birch St', 62000.0, 'Sales Manager', 'Sales', '2015-11-15', 6, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jack Lee', 30, '456 Birch St', 63000.0, 'Customer Service Manager', 'Support', '2016-09-10', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Kelly Young', 29, '789 Birch St', 61000.0, 'IT Coordinator', 'IT', '2017-06-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Liam Clark', 31, '123 Elm St', 62000.0, 'Operations Specialist', 'Operations', '2015-02-10', 5, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Megan Thompson', 30, '456 Elm St', 61000.0, 'HR Specialist', 'HR', '2016-10-20', 4, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Nathan Evans', 33, '789 Elm St', 62000.0, 'Design Specialist', 'Design', '2014-07-15', 7, 9, 4.5, 4.6, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Olivia Martinez', 28, '123 Maple St', 60000.0, 'Business Analyst', 'Business', '2018-04-20', 2, 12, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Patrick Brown', 31, '456 Maple St', 62000.0, 'Product Specialist', 'Product', '2016-01-15', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quinn Cooper', 29, '789 Maple St', 61000.0, 'Operations Coordinator', 'Operations', '2017-07-10', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Rachel Moore', 34, '123 Oak St', 65000.0, 'Finance Analyst', 'Finance', '2012-11-10', 8, 10, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Sam Rogers', 30, '456 Oak St', 63000.0, 'IT Specialist', 'IT', '2016-03-15', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Tina Williams', 29, '789 Oak St', 60000.0, 'HR Coordinator', 'HR', '2017-04-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ulysses Harris', 32, '123 Pine St', 64000.0, 'Marketing Manager', 'Marketing', '2015-12-10', 6, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Vera Johnson', 31, '456 Pine St', 62000.0, 'Product Manager', 'Product', '2016-05-10', 5, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Will Scott', 30, '789 Pine St', 63000.0, 'Design Manager', 'Design', '2017-01-20', 4, 11, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xena Garcia', 33, '123 Birch St', 64000.0, 'Operations Specialist', 'Operations', '2014-09-15', 7, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yvonne Rodriguez', 30, '456 Birch St', 62000.0, 'HR Specialist', 'HR', '2016-04-20', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zane Smith', 29, '789 Birch St', 60000.0, 'Customer Service Specialist', 'Support', '2017-08-15', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Alyssa Wilson', 31, '123 Elm St', 62000.0, 'Finance Analyst', 'Finance', '2015-06-10', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Brandon Young', 32, '456 Elm St', 63000.0, 'Marketing Manager', 'Marketing', '2014-08-10', 6, 9, 4.5, 4.6, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Cindy Brown', 30, '789 Elm St', 61000.0, 'Design Specialist', 'Design', '2016-07-15', 4, 11, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('David Lee', 33, '123 Maple St', 62000.0, 'Sales Specialist', 'Sales', '2013-11-10', 7, 8, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ella King', 31, '456 Maple St', 64000.0, 'IT Manager', 'IT', '2015-03-20', 6, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Felix Martinez', 30, '789 Maple St', 62000.0, 'Business Analyst', 'Business', '2016-02-10', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Grace Turner', 29, '123 Oak St', 61000.0, 'HR Specialist', 'HR', '2017-01-15', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Henry Roberts', 34, '456 Oak St', 67000.0, 'Marketing Specialist', 'Marketing', '2012-09-10', 8, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ivy Lee', 31, '789 Oak St', 63000.0, 'Product Specialist', 'Product', '2015-06-20', 5, 10, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('James Anderson', 32, '123 Pine St', 62000.0, 'Design Coordinator', 'Design', '2015-04-10', 5, 10, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Katherine Thompson', 30, '456 Pine St', 61000.0, 'Sales Coordinator', 'Sales', '2016-07-15', 4, 11, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Liam Moore', 29, '789 Pine St', 60000.0, 'Customer Service Specialist', 'Support', '2017-02-20', 3, 12, 4.1, 4.2, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Maya Brown', 31, '123 Birch St', 62000.0, 'Product Manager', 'Product', '2015-03-20', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Noah Adams', 34, '456 Birch St', 64000.0, 'Marketing Manager', 'Marketing', '2012-07-10', 8, 9, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Olivia Scott', 32, '789 Birch St', 63000.0, 'Design Specialist', 'Design', '2014-05-10', 7, 8, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Paul Lewis', 29, '123 Elm St', 60000.0, 'Operations Coordinator', 'Operations', '2017-03-10', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quinn Adams', 30, '456 Elm St', 62000.0, 'HR Manager', 'HR', '2016-11-15', 4, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Rachel Lewis', 33, '789 Elm St', 63000.0, 'Customer Service Manager', 'Support', '2013-12-10', 7, 9, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Sam Adams', 31, '123 Maple St', 61000.0, 'IT Coordinator', 'IT', '2016-07-20', 4, 12, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Tina Evans', 28, '456 Maple St', 62000.0, 'Finance Coordinator', 'Finance', '2017-05-15', 3, 11, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ulysses Scott', 32, '789 Maple St', 63000.0, 'Marketing Specialist', 'Marketing', '2014-10-15', 6, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Vera Lee', 31, '123 Oak St', 62000.0, 'Sales Manager', 'Sales', '2016-01-15', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Will Turner', 30, '456 Oak St', 61000.0, 'Operations Coordinator', 'Operations', '2017-05-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xena Adams', 33, '789 Oak St', 64000.0, 'Customer Service Manager', 'Support', '2013-08-20', 8, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yvonne Lee', 30, '123 Maple St', 62000.0, 'Business Analyst', 'Business', '2016-04-20', 4, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zane Williams', 29, '456 Maple St', 60000.0, 'Design Specialist', 'Design', '2017-06-15', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Aiden Gray', 34, '123 Birch St', 65000.0, 'Project Manager', 'Project', '2011-06-15', 10, 7, 4.6, 4.7, 3, 5);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Becca Davis', 29, '456 Birch St', 60000.0, 'IT Specialist', 'IT', '2018-09-10', 2, 12, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Carlos Martinez', 31, '789 Birch St', 62000.0, 'HR Specialist', 'HR', '2015-07-20', 5, 10, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Diana Brown', 32, '123 Elm St', 63000.0, 'Finance Manager', 'Finance', '2014-03-10', 6, 8, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ethan Harris', 29, '456 Elm St', 61000.0, 'Operations Specialist', 'Operations', '2017-02-20', 3, 11, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Fiona Clark', 30, '789 Elm St', 62000.0, 'Sales Manager', 'Sales', '2016-08-15', 4, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('George Wilson', 35, '123 Maple St', 66000.0, 'Design Lead', 'Design', '2012-11-10', 8, 9, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Hannah Lewis', 31, '456 Maple St', 62000.0, 'Customer Service Specialist', 'Support', '2016-10-20', 4, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ian Martinez', 33, '789 Maple St', 64000.0, 'Product Manager', 'Product', '2014-05-15', 7, 8, 4.4, 4.5, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jasmine Adams', 30, '123 Oak St', 61000.0, 'Marketing Coordinator', 'Marketing', '2017-06-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Kevin White', 34, '456 Oak St', 65000.0, 'Business Analyst', 'Business', '2012-02-15', 8, 8, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Laura Green', 32, '789 Oak St', 63000.0, 'Design Specialist', 'Design', '2015-01-20', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Matthew Smith', 30, '123 Pine St', 62000.0, 'Operations Manager', 'Operations', '2016-05-10', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Natalie Brown', 29, '456 Pine St', 60000.0, 'HR Manager', 'HR', '2018-02-20', 2, 12, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Oscar Johnson', 31, '789 Pine St', 62000.0, 'IT Coordinator', 'IT', '2016-09-10', 4, 11, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Paige Green', 33, '123 Birch St', 63000.0, 'Marketing Specialist', 'Marketing', '2014-07-15', 7, 9, 4.4, 4.5, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quincy Harris', 30, '456 Birch St', 61000.0, 'Product Specialist', 'Product', '2017-11-10', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Riley Carter', 31, '789 Birch St', 62000.0, 'Sales Specialist', 'Sales', '2016-04-15', 4, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Sophie Turner', 28, '123 Elm St', 60000.0, 'Finance Specialist', 'Finance', '2019-01-15', 1, 10, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Thomas King', 33, '456 Elm St', 64000.0, 'Design Manager', 'Design', '2014-09-10', 7, 8, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Uma Patel', 30, '789 Elm St', 62000.0, 'Operations Specialist', 'Operations', '2016-06-15', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Victor Brown', 31, '123 Maple St', 63000.0, 'IT Specialist', 'IT', '2015-10-10', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Wendy Green', 32, '456 Maple St', 62000.0, 'Customer Service Specialist', 'Support', '2014-04-15', 6, 9, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xander Lee', 30, '789 Maple St', 61000.0, 'Finance Analyst', 'Finance', '2017-01-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yara Adams', 31, '123 Oak St', 62000.0, 'Sales Coordinator', 'Sales', '2015-11-15', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zane Walker', 29, '456 Oak St', 60000.0, 'HR Specialist', 'HR', '2017-08-15', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Amelia Scott', 32, '789 Oak St', 63000.0, 'Marketing Specialist', 'Marketing', '2014-12-20', 6, 9, 4.5, 4.6, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Bradley Moore', 30, '123 Pine St', 62000.0, 'Operations Manager', 'Operations', '2015-02-10', 5, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Catherine Carter', 31, '456 Pine St', 61000.0, 'Product Specialist', 'Product', '2017-03-20', 3, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Derek Taylor', 33, '789 Pine St', 62000.0, 'Design Coordinator', 'Design', '2014-06-15', 7, 8, 4.4, 4.5, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Emily Evans', 30, '123 Birch St', 61000.0, 'Customer Service Specialist', 'Support', '2016-11-10', 4, 11, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Franklin White', 31, '456 Birch St', 62000.0, 'Marketing Manager', 'Marketing', '2015-08-20', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Grace Adams', 32, '789 Birch St', 63000.0, 'Finance Analyst', 'Finance', '2014-01-15', 7, 8, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Harrison Davis', 30, '123 Elm St', 62000.0, 'HR Manager', 'HR', '2016-04-15', 4, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ivy Robinson', 31, '456 Elm St', 61000.0, 'Sales Specialist', 'Sales', '2015-10-10', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jack Lee', 34, '789 Elm St', 64000.0, 'Design Lead', 'Design', '2012-12-20', 8, 9, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Kara Scott', 30, '123 Maple St', 62000.0, 'Operations Specialist', 'Operations', '2016-03-10', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Liam Williams', 33, '456 Maple St', 63000.0, 'Product Manager', 'Product', '2014-06-15', 6, 10, 4.4, 4.5, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Mia Wright', 32, '789 Maple St', 62000.0, 'HR Coordinator', 'HR', '2015-08-15', 5, 9, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Noah Smith', 30, '123 Oak St', 61000.0, 'Finance Specialist', 'Finance', '2016-10-20', 4, 11, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Olivia Johnson', 29, '456 Oak St', 60000.0, 'Marketing Coordinator', 'Marketing', '2018-02-15', 2, 12, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Paul Davis', 31, '789 Oak St', 62000.0, 'Sales Manager', 'Sales', '2015-04-15', 5, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quinn Evans', 28, '123 Pine St', 61000.0, 'IT Specialist', 'IT', '2019-01-15', 1, 12, 4.0, 4.1, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Rachel Scott', 33, '456 Pine St', 64000.0, 'Finance Manager', 'Finance', '2013-06-10', 8, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Sam Taylor', 32, '789 Pine St', 62000.0, 'Operations Coordinator', 'Operations', '2015-07-20', 6, 9, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Tina White', 31, '123 Birch St', 63000.0, 'HR Specialist', 'HR', '2014-11-15', 6, 8, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ulysses Brown', 30, '456 Birch St', 62000.0, 'Marketing Specialist', 'Marketing', '2017-01-15', 3, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Vera White', 29, '789 Birch St', 61000.0, 'Product Specialist', 'Product', '2018-03-15', 2, 11, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Will Carter', 30, '123 Elm St', 62000.0, 'Customer Service Specialist', 'Support', '2016-07-20', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xena Wilson', 33, '456 Elm St', 64000.0, 'Finance Specialist', 'Finance', '2014-05-20', 6, 9, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yvonne Scott', 31, '789 Elm St', 62000.0, 'HR Coordinator', 'HR', '2015-12-15', 5, 10, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zane Harris', 32, '123 Maple St', 63000.0, 'Operations Specialist', 'Operations', '2014-08-20', 6, 9, 4.4, 4.5, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Aiden Martinez', 29, '456 Maple St', 60000.0, 'Sales Specialist', 'Sales', '2018-11-10', 2, 12, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Becca Wilson', 31, '789 Maple St', 62000.0, 'Product Manager', 'Product', '2016-05-15', 4, 10, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Carlos Adams', 30, '123 Oak St', 61000.0, 'Finance Coordinator', 'Finance', '2017-07-20', 3, 11, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Diana Robinson', 32, '456 Oak St', 62000.0, 'HR Specialist', 'HR', '2015-10-10', 5, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Eric Wright', 34, '789 Oak St', 63000.0, 'Marketing Specialist', 'Marketing', '2013-01-20', 8, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Fiona Turner', 29, '123 Pine St', 60000.0, 'Sales Coordinator', 'Sales', '2018-07-15', 2, 11, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('George Murphy', 31, '456 Pine St', 62000.0, 'Design Specialist', 'Design', '2015-03-15', 5, 10, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Hannah Carter', 32, '789 Pine St', 62000.0, 'Product Manager', 'Product', '2014-04-20', 6, 9, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ian Clark', 30, '123 Birch St', 61000.0, 'Operations Specialist', 'Operations', '2017-06-15', 3, 11, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Julia Davis', 34, '456 Birch St', 64000.0, 'Marketing Lead', 'Marketing', '2012-11-10', 8, 9, 4.7, 4.8, 2, 4);
+
+VALUES ('Kevin Wilson', 33, '789 Birch St', 63000.0, 'IT Manager', 'IT', '2014-01-20', 6, 8, 4.5, 4.6, 2, 3);-- Employee data
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Aidan Brooks', 31, '123 Elm St', 63000.0, 'Customer Service Manager', 'Support', '2014-05-20', 6, 9, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Brianna Scott', 29, '456 Elm St', 62000.0, 'Sales Coordinator', 'Sales', '2018-04-15', 2, 12, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Carl Turner', 32, '789 Elm St', 64000.0, 'Finance Specialist', 'Finance', '2015-07-20', 5, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Diana Clark', 30, '123 Maple St', 62000.0, 'Marketing Specialist', 'Marketing', '2016-02-15', 4, 11, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Edward Hughes', 33, '456 Maple St', 63000.0, 'HR Manager', 'HR', '2014-10-10', 7, 8, 4.4, 4.5, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Fiona Bell', 28, '789 Maple St', 61000.0, 'Design Specialist', 'Design', '2019-01-15', 1, 12, 4.0, 4.1, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('George Allen', 32, '123 Oak St', 62000.0, 'Product Manager', 'Product', '2015-11-10', 5, 9, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Hannah Collins', 31, '456 Oak St', 63000.0, 'Customer Service Specialist', 'Support', '2016-03-15', 4, 11, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ian Reed', 30, '789 Oak St', 61000.0, 'Sales Manager', 'Sales', '2017-02-10', 3, 10, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jasmine Young', 29, '123 Pine St', 62000.0, 'Operations Specialist', 'Operations', '2018-05-15', 2, 12, 4.0, 4.1, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Kyle Anderson', 34, '456 Pine St', 64000.0, 'Marketing Coordinator', 'Marketing', '2012-07-20', 8, 8, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Laura Evans', 31, '789 Pine St', 62000.0, 'Design Coordinator', 'Design', '2015-09-15', 5, 10, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Michael Green', 30, '123 Birch St', 61000.0, 'Product Specialist', 'Product', '2017-10-10', 3, 11, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Nora Phillips', 32, '456 Birch St', 63000.0, 'HR Coordinator', 'HR', '2014-12-10', 6, 8, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Oliver Wright', 31, '789 Birch St', 62000.0, 'Finance Coordinator', 'Finance', '2015-08-20', 5, 9, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Paige Turner', 29, '123 Elm St', 60000.0, 'Operations Coordinator', 'Operations', '2019-03-10', 1, 12, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quincy Clark', 33, '456 Elm St', 63000.0, 'Sales Specialist', 'Sales', '2014-06-10', 7, 8, 4.4, 4.5, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Rachel King', 30, '789 Elm St', 62000.0, 'Customer Service Specialist', 'Support', '2016-07-20', 4, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Steve Martinez', 34, '123 Maple St', 64000.0, 'Finance Manager', 'Finance', '2013-04-15', 8, 8, 4.7, 4.8, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Tiffany Adams', 32, '456 Maple St', 62000.0, 'Marketing Specialist', 'Marketing', '2015-03-20', 5, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ursula Green', 31, '789 Maple St', 61000.0, 'HR Specialist', 'HR', '2016-05-15', 4, 12, 4.2, 4.3, 1, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Victor Lewis', 30, '123 Oak St', 62000.0, 'Design Specialist', 'Design', '2017-09-10', 3, 11, 4.1, 4.2, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Wendy Scott', 29, '456 Oak St', 61000.0, 'Customer Service Coordinator', 'Support', '2018-01-15', 2, 12, 4.0, 4.1, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xander Roberts', 34, '789 Oak St', 64000.0, 'Sales Manager', 'Sales', '2012-08-20', 8, 9, 4.6, 4.7, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yara Turner', 33, '123 Pine St', 63000.0, 'Marketing Coordinator', 'Marketing', '2013-07-15', 7, 10, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zachary Wilson', 30, '456 Pine St', 62000.0, 'Finance Specialist', 'Finance', '2017-11-10', 3, 12, 4.1, 4.2, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Alice Hughes', 31, '789 Pine St', 62000.0, 'Product Manager', 'Product', '2016-04-15', 4, 9, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Bradley Adams', 32, '123 Birch St', 63000.0, 'Operations Manager', 'Operations', '2015-09-20', 5, 8, 4.4, 4.5, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Catherine Morgan', 34, '456 Birch St', 64000.0, 'IT Specialist', 'IT', '2012-01-15', 8, 9, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Daniel Rodriguez', 31, '789 Birch St', 62000.0, 'HR Specialist', 'HR', '2016-03-20', 4, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Emma Wilson', 29, '123 Elm St', 61000.0, 'Marketing Specialist', 'Marketing', '2018-06-15', 2, 11, 4.0, 4.1, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Franklin Adams', 33, '456 Elm St', 63000.0, 'Sales Coordinator', 'Sales', '2014-07-20', 6, 9, 4.4, 4.5, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Gina Clark', 31, '789 Elm St', 62000.0, 'Finance Coordinator', 'Finance', '2015-12-15', 5, 10, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Harry Johnson', 30, '123 Maple St', 61000.0, 'Customer Service Coordinator', 'Support', '2016-11-10', 4, 11, 4.1, 4.2, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Isabella Walker', 28, '456 Maple St', 60000.0, 'Operations Coordinator', 'Operations', '2019-02-15', 1, 12, 4.0, 4.1, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jacob White', 32, '789 Maple St', 62000.0, 'Design Specialist', 'Design', '2015-08-10', 5, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Kylie Moore', 31, '123 Oak St', 62000.0, 'Product Specialist', 'Product', '2016-09-15', 4, 11, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Leo Martin', 30, '456 Oak St', 61000.0, 'HR Coordinator', 'HR', '2017-01-15', 3, 12, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Mia Lewis', 29, '789 Oak St', 60000.0, 'Marketing Coordinator', 'Marketing', '2018-04-20', 2, 10, 4.0, 4.1, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Noah Taylor', 32, '123 Pine St', 62000.0, 'Design Coordinator', 'Design', '2015-06-10', 5, 11, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Olivia Miller', 31, '456 Pine St', 63000.0, 'Finance Manager', 'Finance', '2016-08-15', 4, 9, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Patrick Martinez', 34, '789 Pine St', 64000.0, 'Customer Service Specialist', 'Support', '2012-10-20', 8, 8, 4.5, 4.6, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quinn Moore', 29, '123 Birch St', 60000.0, 'Operations Specialist', 'Operations', '2019-01-15', 1, 12, 4.0, 4.1, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Riley Adams', 31, '456 Birch St', 62000.0, 'Sales Specialist', 'Sales', '2016-03-10', 4, 10, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Sophia Lewis', 30, '789 Birch St', 61000.0, 'HR Manager', 'HR', '2017-04-20', 3, 11, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Thomas Wilson', 33, '123 Elm St', 63000.0, 'Marketing Specialist', 'Marketing', '2014-08-20', 7, 8, 4.5, 4.6, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Uma Robinson', 31, '456 Elm St', 62000.0, 'Design Specialist', 'Design', '2016-11-10', 4, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Vera King', 34, '789 Elm St', 64000.0, 'Finance Specialist', 'Finance', '2012-01-15', 8, 9, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('William Scott', 32, '123 Maple St', 63000.0, 'Customer Service Coordinator', 'Support', '2015-06-10', 5, 11, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xena Lewis', 30, '456 Maple St', 62000.0, 'Sales Coordinator', 'Sales', '2017-07-20', 3, 10, 4.2, 4.3, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yvette Turner', 29, '789 Maple St', 61000.0, 'HR Specialist', 'HR', '2018-09-15', 2, 11, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zachary Taylor', 31, '123 Oak St', 62000.0, 'Operations Specialist', 'Operations', '2016-05-15', 4, 9, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Anna Miller', 34, '456 Oak St', 64000.0, 'Design Specialist', 'Design', '2013-11-20', 8, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Brian Martin', 33, '789 Oak St', 63000.0, 'Finance Coordinator', 'Finance', '2014-04-10', 7, 9, 4.5, 4.6, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Catherine Young', 31, '123 Pine St', 62000.0, 'Marketing Coordinator', 'Marketing', '2017-06-15', 4, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('David Green', 30, '456 Pine St', 61000.0, 'Product Specialist', 'Product', '2018-01-10', 2, 11, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Eva White', 32, '789 Pine St', 62000.0, 'Sales Manager', 'Sales', '2015-05-20', 5, 9, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Frank Moore', 31, '123 Birch St', 63000.0, 'Operations Manager', 'Operations', '2016-08-10', 4, 10, 4.3, 4.4, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Grace Johnson', 29, '456 Birch St', 62000.0, 'Marketing Specialist', 'Marketing', '2018-11-10', 2, 12, 4.0, 4.1, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Henry Davis', 31, '789 Birch St', 62000.0, 'Finance Manager', 'Finance', '2015-02-10', 5, 10, 4.4, 4.5, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Isabelle Smith', 32, '123 Elm St', 63000.0, 'HR Specialist', 'HR', '2016-05-10', 5, 8, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Jack Brown', 33, '456 Elm St', 64000.0, 'Product Manager', 'Product', '2013-04-15', 8, 9, 4.5, 4.6, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Kimberly Lee', 34, '789 Elm St', 64000.0, 'Customer Service Coordinator', 'Support', '2012-07-15', 8, 7, 4.7, 4.8, 3, 5);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Laura Adams', 30, '123 Maple St', 62000.0, 'Marketing Specialist', 'Marketing', '2017-10-10', 4, 10, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Matthew Davis', 31, '456 Maple St', 63000.0, 'Product Coordinator', 'Product', '2016-04-15', 5, 11, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Nina Clark', 32, '789 Maple St', 62000.0, 'Design Manager', 'Design', '2014-09-15', 6, 9, 4.4, 4.5, 1, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Oscar Wilson', 29, '123 Oak St', 61000.0, 'Customer Service Coordinator', 'Support', '2019-03-20', 1, 10, 4.0, 4.1, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Paula Davis', 34, '456 Oak St', 64000.0, 'Marketing Manager', 'Marketing', '2012-05-15', 8, 8, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Quincy Adams', 30, '789 Oak St', 62000.0, 'Finance Coordinator', 'Finance', '2017-03-20', 3, 11, 4.1, 4.2, 0, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Rachel Smith', 31, '123 Pine St', 62000.0, 'HR Specialist', 'HR', '2017-01-15', 4, 9, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Samuel Johnson', 32, '456 Pine St', 63000.0, 'Operations Manager', 'Operations', '2015-02-15', 6, 10, 4.4, 4.5, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Tina Green', 30, '789 Pine St', 62000.0, 'Design Coordinator', 'Design', '2017-10-15', 3, 11, 4.1, 4.2, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Ulysses Wright', 31, '123 Birch St', 62000.0, 'Sales Coordinator', 'Sales', '2016-11-10', 4, 10, 4.3, 4.4, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Vera Adams', 29, '456 Birch St', 61000.0, 'Customer Service Specialist', 'Support', '2018-12-15', 2, 12, 4.0, 4.1, 0, 1);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('William Lewis', 34, '789 Birch St', 64000.0, 'IT Specialist', 'IT', '2013-02-10', 8, 7, 4.6, 4.7, 2, 4);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Xander Martin', 33, '123 Elm St', 63000.0, 'Customer Service Specialist', 'Support', '2014-11-20', 6, 8, 4.5, 4.6, 2, 3);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Yvonne White', 30, '456 Elm St', 62000.0, 'Sales Manager', 'Sales', '2017-04-20', 4, 9, 4.2, 4.3, 1, 2);
+INSERT INTO employee (Name, Age, Address, Salary, Position, Department, Date_of_Joining, Experience_Years, Number_of_Leaves, Performance_Rating, Employee_Satisfaction, Number_of_Promotions, Number_of_Projects_Working) 
+VALUES ('Zachary Lee', 31, '789 Elm St', 63000.0, 'Design Manager', 'Design', '2016-03-20', 5, 9, 4.3, 4.4, 1, 2);
+
